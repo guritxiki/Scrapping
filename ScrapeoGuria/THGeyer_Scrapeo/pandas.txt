@@ -1,0 +1,156 @@
+import pandas as pd
+
+# Desde un diccionario
+data = {'col1': [1, 2, 3], 'col2': [4, 5, 6]}
+df = pd.DataFrame(data)
+
+# Desde una lista de listas
+data = [[1, 4], [2, 5], [3, 6]]
+df = pd.DataFrame(data, columns=['col1', 'col2'])
+
+# Desde un archivo CSV
+df = pd.read_csv("archivo.csv")
+2. Inspección de Datos
+Métodos útiles para explorar un DataFrame:
+
+df.head(n)
+Muestra las primeras n filas del DataFrame.
+
+df.tail(n)
+Muestra las últimas n filas.
+
+df.info()
+Muestra información del DataFrame, como el tipo de datos y los valores nulos.
+
+df.describe()
+Calcula estadísticas básicas (media, desviación estándar, etc.) para columnas numéricas.
+
+df.shape
+Devuelve el número de filas y columnas como una tupla (filas, columnas).
+
+df.columns
+Lista las columnas del DataFrame.
+
+df.dtypes
+Devuelve los tipos de datos de cada columna.
+
+3. Selección y Filtrado de Datos
+Por columnas
+Seleccionar una columna:
+python
+Copiar código
+df['col1']  # Devuelve una Serie
+df[['col1', 'col2']]  # Devuelve un DataFrame con varias columnas
+Por filas
+Seleccionar filas por índices:
+
+python
+Copiar código
+df.loc[0]  # Selección por etiqueta de índice (primera fila).
+df.iloc[0]  # Selección por posición (primera fila).
+Filtrar filas según una condición:
+
+python
+Copiar código
+df[df['col1'] > 2]  # Filas donde 'col1' > 2
+4. Manipulación de Columnas
+Agregar columnas
+Crear una nueva columna:
+
+python
+Copiar código
+df['col3'] = df['col1'] + df['col2']
+Crear una columna usando una función:
+
+python
+Copiar código
+df['col3'] = df['col1'].apply(lambda x: x * 2)
+Renombrar columnas
+Renombrar una o más columnas:
+python
+Copiar código
+df.rename(columns={'col1': 'nueva_col1', 'col2': 'nueva_col2'}, inplace=True)
+Eliminar columnas
+Eliminar columnas específicas:
+python
+Copiar código
+df.drop(columns=['col2'], inplace=True)
+Reordenar columnas
+Cambiar el orden de las columnas:
+python
+Copiar código
+df = df[['col2', 'col1', 'col3']]
+5. Manejo de Valores Nulos
+Detectar valores nulos
+Verificar valores nulos:
+python
+Copiar código
+df.isnull()  # Devuelve un DataFrame de booleanos
+df.isnull().sum()  # Suma de valores nulos por columna
+Eliminar valores nulos
+Eliminar filas con valores nulos:
+
+python
+Copiar código
+df.dropna(inplace=True)
+Eliminar columnas con valores nulos:
+
+python
+Copiar código
+df.dropna(axis=1, inplace=True)
+Reemplazar valores nulos
+Reemplazar valores nulos con un valor:
+python
+Copiar código
+df.fillna(0, inplace=True)
+6. Ordenar y Agrupar Datos
+Ordenar
+Ordenar por una columna:
+python
+Copiar código
+df.sort_values(by='col1', ascending=False, inplace=True)
+Agrupar y aplicar funciones
+Agrupar por una columna y aplicar una función:
+python
+Copiar código
+df.groupby('col1').mean()  # Promedio por grupo
+df.groupby('col1').sum()  # Suma por grupo
+7. Exportar a CSV
+Para guardar un DataFrame como archivo CSV:
+
+python
+Copiar código
+df.to_csv("salida.csv", index=False)  # Guarda sin incluir el índice
+Si necesitas incluir el índice, simplemente elimina el argumento index=False:
+
+python
+Copiar código
+df.to_csv("salida_con_indice.csv")
+8. Otros Métodos Útiles
+Modificar el índice
+Cambiar una columna a índice:
+
+python
+Copiar código
+df.set_index('col1', inplace=True)
+Restablecer el índice:
+
+python
+Copiar código
+df.reset_index(inplace=True)
+Concatenar DataFrames
+Concatenar filas:
+
+python
+Copiar código
+pd.concat([df1, df2], axis=0)
+Concatenar columnas:
+
+python
+Copiar código
+pd.concat([df1, df2], axis=1)
+Eliminar duplicados
+Eliminar filas duplicadas:
+python
+Copiar código
+df.drop_duplicates(inplace=True)

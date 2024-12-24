@@ -1,0 +1,858 @@
+[
+    {
+        "modelo": "B 28",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo B 28 | Estándar-Incubadoras con regulación mecánica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/B_028_GF_Web_670x515.jpg?v=20241220023016",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/b-28",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BF 56",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BF 56 | Estándar-Incubadoras con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_056_GF_37Grad_Web_670x515.jpg?v=20241220023017",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bf-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BF 115",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BF 115 | Estándar-Incubadoras con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_115_GF_37Grad_Web_670x515.jpg?v=20241220023017",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bf-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BF 260",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BF 260 | Estándar-Incubadoras con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_260_GF_37Grad_Web_670x515.jpg?v=20241220023018",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bf-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BF 720",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BF 720 | Estándar-Incubadoras con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_ED_FD_FED_720_GF_AL_Web_670x515.jpg?v=20241220023018",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bf-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD 56",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD 56 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_056_GF_37Grad_Web_670x515.jpg?v=20241220023016",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD 115",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD 115 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_115_GF_37Grad_Web_670x515.jpg?v=20241220023016",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD 260",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD 260 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_260_GF_37Grad_Web_670x515.jpg?v=20241220023017",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD 720",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD 720 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_ED_FD_FED_720_GF_AL_Web_670x515.jpg?v=20241220023017",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD 23",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD 23 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_ED_FD_023_GF_Web_670x515.jpg?v=20241220023018",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-23",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD 400",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD 400 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_ED_FED_400_GF_Web_670x515.jpg?v=20241220023018",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BF 400",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BF 400 | Estándar-Incubadoras con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_ED_FED_400_GF_Web_670x515.jpg?v=20241220023018",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bf-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD-S 56",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD-S 56 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD-S_ED-S_FD-S_056_GF_Web_670x515.jpg?v=20241220023019",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-s-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "BD-S 115",
+        "categoria": "incubadoras-estandar",
+        "nombre": "Modelo BD-S 115 | Estándar-Incubadoras a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD-S_ED-S_FD-S_115_GF_Web_670x515.jpg?v=20241220023019",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/producto/bd-s-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-estandar/lista-productos-incubadoras-estandar"
+    },
+    {
+        "modelo": "KB 65",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB 65 | Incubadoras refrigeradas con amplio rango de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB_65_U_GF_E7_Web_670x515.jpg?v=20241220023011",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-65",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB 130",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB 130 | Incubadoras refrigeradas con amplio rango de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB_130_U_GF_E7_Web_670x515.jpg?v=20241220023011",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-130",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB 260",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB 260 | Incubadoras refrigeradas con amplio rango de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB_260_U_GF_E7_Web_670x515.jpg?v=20241220023011",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB 470",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB 470 | Incubadoras refrigeradas con amplio rango de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB_470_U_GF_E7_Web_670x515.jpg?v=20241220023011",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-470",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB 720",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB 720 | Incubadoras refrigeradas con amplio rango de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB_720_U_GF_E7_Web_670x515.jpg?v=20241220023010",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB 1060",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB 1060 | Incubadoras refrigeradas con amplio rango de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB_1060_U_GF_E7_Web_670x515.jpg?v=20241220023012",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-1060",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB PRO 130",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB PRO 130 | Incubadoras refrigeradas con rango de temperatura ampliado",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-PRO_130_U_GF_E7_Web_670x515.jpg?v=20241220023012",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-pro-130",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB PRO 260",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB PRO 260 | Incubadoras refrigeradas con rango de temperatura ampliado",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-PRO_260_T_GF_E7_Web_670x515.jpg?v=20241220023012",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-pro-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB PRO 470",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB PRO 470 | Incubadoras refrigeradas con rango de temperatura ampliado",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-PRO_470_T_GF_E7_Web_670x515.jpg?v=20241220023012",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-pro-470",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB PRO 720",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB PRO 720 | Incubadoras refrigeradas con rango de temperatura ampliado",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-PRO_720_T_GF_E7_Web_670x515.jpg?v=20241220023013",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-pro-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB PRO 1060",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB PRO 1060 | Incubadoras refrigeradas con rango de temperatura ampliado",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-PRO_1060_T_GF_E7_Web_670x515.jpg?v=20241220023013",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-pro-1060",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB PRO 1600",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB PRO 1600 | Incubadoras refrigeradas con rango de temperatura ampliado",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-PRO_1600_T_GF_E7_Web_670x515.jpg?v=20241220023013",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-pro-1600",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB ECO 240",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB ECO 240 | Incubadoras refrigeradas con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-ECO-240-cooling-incubator-GF_Web_670x515.jpg?v=20241220023013",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-eco-240",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB ECO 400",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB ECO 400 | Incubadoras refrigeradas con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-ECO-400-cooling-incubator-GF_Web_670x515.jpg?v=20241220023014",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-eco-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB ECO 720",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB ECO 720 | Incubadoras refrigeradas con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-ECO-720-cooling-incubator-GF_Web_670x515.jpg?v=20241220023014",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-eco-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KB ECO 1020",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KB ECO 1020 | Incubadoras refrigeradas con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KB-ECO-1020-cooling-incubator-GF_Web_670x515.jpg?v=20241220023024",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kb-eco-1020",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KT 53",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KT 53 | Incubadoras refrigeradas con tecnología Peltier",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KT_053_GF_Web_670x515.jpg?v=20241220023019",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kt-53",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KT 115",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KT 115 | Incubadoras refrigeradas con tecnología Peltier",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KT_115_GF_Web_670x515.jpg?v=20241220023019",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kt-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "KT 170",
+        "categoria": "incubadoras-refrigeradas",
+        "nombre": "Modelo KT 170 | Incubadoras refrigeradas con tecnología Peltier",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KT_170_GF_Web_670x515.jpg?v=20241220023020",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/producto/kt-170",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-refrigeradas/lista-productos-incubadoras-refrigeradas"
+    },
+    {
+        "modelo": "CB-S 170",
+        "categoria": "incubadoras-co2",
+        "nombre": "Modelo CB-S 170 | Incubadoras de CO2 con esterilización por aire caliente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/CB-S170-CO2-incubator-GF_Web_670x515.jpg?v=20241220023046",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/producto/cb-s-170",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/lista-productos-incubadoras-co2"
+    },
+    {
+        "modelo": "CB-S 260",
+        "categoria": "incubadoras-co2",
+        "nombre": "Modelo CB-S 260 | Incubadoras de CO2 con esterilización por aire caliente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/CB-260_CO2_incubators_GF_Web_670x515.jpg?v=20241220023046",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/producto/cb-s-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/lista-productos-incubadoras-co2"
+    },
+    {
+        "modelo": "CB 56",
+        "categoria": "incubadoras-co2",
+        "nombre": "Modelo CB 56 | Incubadoras de CO2 con esterilización por aire caliente y sensor de CO₂ con esterilización térmica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/CB-056_CO2_incubators_GF_Web_670x515.jpg?v=20241220023046",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/producto/cb-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/lista-productos-incubadoras-co2"
+    },
+    {
+        "modelo": "CB 170",
+        "categoria": "incubadoras-co2",
+        "nombre": "Modelo CB 170 | Incubadoras de CO2 con esterilización por aire caliente y sensor de CO₂ con esterilización térmica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/CB-170-CO2-incubators-GF_Web_670x515.jpg?v=20241220023047",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/producto/cb-170",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/lista-productos-incubadoras-co2"
+    },
+    {
+        "modelo": "CB 260",
+        "categoria": "incubadoras-co2",
+        "nombre": "Modelo CB 260 | Incubadoras de CO2 con esterilización por aire caliente y sensor de CO₂ con esterilización térmica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/CB-260_CO2_incubators_GF_Web_670x515.jpg?v=20241220023014",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/producto/cb-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/incubadoras/incubadoras-co2/lista-productos-incubadoras-co2"
+    },
+    {
+        "modelo": "UF V 350",
+        "categoria": "ultracongeladores",
+        "nombre": "Modelo UF V 350 | Ultracongeladores Con refrigerantes climáticamente neutros",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/UFV-350-GF_LOGO-VIP_Web_670x515.jpg?v=20241220023026",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/ultracongeladores/producto/uf-v-350",
+        "source_url": "https://www.binder-world.com/int-es/productos/ultracongeladores/lista-productos-ultracongeladores"
+    },
+    {
+        "modelo": "UF V 500",
+        "categoria": "ultracongeladores",
+        "nombre": "Modelo UF V 500 | Ultracongeladores Con refrigerantes climáticamente neutros",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/UFV-500-Ultra-low-temperature-freezers-GF_E_Web_670x515.jpg?v=20241220023026",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/ultracongeladores/producto/uf-v-500",
+        "source_url": "https://www.binder-world.com/int-es/productos/ultracongeladores/lista-productos-ultracongeladores"
+    },
+    {
+        "modelo": "UF V 700",
+        "categoria": "ultracongeladores",
+        "nombre": "Modelo UF V 700 | Ultracongeladores Con refrigerantes climáticamente neutros",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/UFV-700-Ultra-low-temperature-freezers-GF_E_Web_670x515.jpg?v=20241220023026",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/ultracongeladores/producto/uf-v-700",
+        "source_url": "https://www.binder-world.com/int-es/productos/ultracongeladores/lista-productos-ultracongeladores"
+    },
+    {
+        "modelo": "E 28",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo E 28 | Cámaras de calor y de secado con regulación mecánica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/E_028_GF_Web_670x515.jpg?v=20241220023026",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/e-28",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED 56 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_056_GF_Web_670x515.jpg?v=20241220023027",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED 115 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_115_GF_Web_670x515.jpg?v=20241220023027",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED 260",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED 260 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_260_GF_Web_670x515.jpg?v=20241220023027",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED 720",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED 720 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED-FD-FED_720_GF_Web_670x515.jpg?v=20241220023027",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED 23",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED 23 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_ED_FD_023_GF_Web_670x515.jpg?v=20241220023020",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-23",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED 400",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED 400 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_ED_FED_400_GF_Web_670x515.jpg?v=20241220023021",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED-S 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED-S 56 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD-S_ED-S_FD-S_056_GF_Web_670x515.jpg?v=20241220023023",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-s-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "ED-S 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo ED-S 115 | Cámaras de calor y de secado a convección natural",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD-S_ED-S_FD-S_115_GF_Web_670x515.jpg?v=20241220023023",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/ed-s-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD 56 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_056_GF_Web_670x515.jpg?v=20241220023028",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD 115 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_115_GF_Web_670x515.jpg?v=20241220023028",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD 260",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD 260 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_260_GF_Web_670x515.jpg?v=20241220023028",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD 720",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD 720 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED-FD-FED_720_GF_Web_670x515.jpg?v=20241220023028",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD 23",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD 23 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_ED_FD_023_GF_Web_670x515.jpg?v=20241220023021",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-23",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD-S 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD-S 56 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD-S_ED-S_FD-S_056_GF_Web_670x515.jpg?v=20241220023023",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-s-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FD-S 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FD-S 115 | Cámaras de calor y de secado con convección forzada",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD-S_ED-S_FD-S_115_GF_Web_670x515.jpg?v=20241220023024",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fd-s-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FED 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FED 56 | Cámaras de calor y de secado con convección forzada y funciones de temporización avanzadas",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_056_GF_Web_670x515.jpg?v=20241220023029",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fed-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FED 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FED 115 | Cámaras de calor y de secado con convección forzada y funciones de temporización avanzadas",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_115_GF_Web_670x515.jpg?v=20241220023029",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fed-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FED 260",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FED 260 | Cámaras de calor y de secado con convección forzada y funciones de temporización avanzadas",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED_FD_FED_260_GF_Web_670x515.jpg?v=20241220023020",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fed-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FED 720",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FED 720 | Cámaras de calor y de secado con convección forzada y funciones de temporización avanzadas",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/ED-FD-FED_720_GF_Web_670x515.jpg?v=20241220023020",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fed-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FED 400",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FED 400 | Cámaras de calor y de secado con convección forzada y funciones de temporización avanzadas",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/BD_BF_ED_FED_400_GF_Web_670x515.jpg?v=20241220023021",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fed-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion"
+    },
+    {
+        "modelo": "FP 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FP 56 | Cámaras de calor y de secado con convección forzada y funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/FP_056_GF_Web_670x515.jpg?v=20241220023021",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fp-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "FP 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FP 115 | Cámaras de calor y de secado con convección forzada y funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/FP_115_GF_Web_670x515.jpg?v=20241220023022",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fp-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "FP 260",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FP 260 | Cámaras de calor y de secado con convección forzada y funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/FP_260_GF_Web_670x515.jpg?v=20241220023022",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fp-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "FP 720",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo FP 720 | Cámaras de calor y de secado con convección forzada y funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/FP_720_GF_Web_670x515.jpg?v=20241220023022",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/fp-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "M 56",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo M 56 | Cámaras de calor y de secado con convección forzada y numerosas funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/M_056_GF_Web_670x515.jpg?v=20241220023022",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/m-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "M 115",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo M 115 | Cámaras de calor y de secado con convección forzada y numerosas funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/M_115_GF_Web_670x515.jpg?v=20241220023022",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/m-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "M 260",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo M 260 | Cámaras de calor y de secado con convección forzada y numerosas funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/M_260_GF_Web_670x515.jpg?v=20241220023023",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/m-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "M 720",
+        "categoria": "camaras-de-secado",
+        "nombre": "Modelo M 720 | Cámaras de calor y de secado con convección forzada y numerosas funciones de programa",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/M_720_GF_Web_670x515.jpg?v=20241220023023",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/producto/m-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-de-secado/lista-productos-secado-temperacion?ai%5Baction%5D=lists&ai%5Bcontroller%5D=Catalog&ai%5Bl_page%5D=2"
+    },
+    {
+        "modelo": "KBF 130",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF 130 | Cámaras de clima constante con amplio rango de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF_130_U_GF_E7_Web_670x515.jpg?v=20241220023030",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-130",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF 260",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF 260 | Cámaras de clima constante con amplio rango de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF_260_U_GF_E7_Web_670x515.jpg?v=20241220023030",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF 470",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF 470 | Cámaras de clima constante con amplio rango de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF_470_U_GF_E7_Web_670x515.jpg?v=20241220023031",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-470",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF 720",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF 720 | Cámaras de clima constante con amplio rango de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF_720_U_GF_E7_Web_670x515.jpg?v=20241220023031",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF 1060",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF 1060 | Cámaras de clima constante con amplio rango de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF_1060_U_GF_E7_Web_670x515.jpg?v=20241220023032",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-1060",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF 1600",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF 1600 | Cámaras de clima constante con amplio rango de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF_1600_U_GF_E7_Web_670x515.jpg?v=20241220023032",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-1600",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF PRO 130",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF PRO 130 | Cámaras de clima constante con límites ampliados de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-PRO_130_U_GF_E7_Web_670x515.jpg?v=20241220023032",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-pro-130",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF PRO 260",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF PRO 260 | Cámaras de clima constante con límites ampliados de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-PRO_260_T_GF_E7_Web_670x515.jpg?v=20241220023032",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-pro-260",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF PRO 470",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF PRO 470 | Cámaras de clima constante con límites ampliados de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-PRO_470_T_GF_E7_Web_670x515.jpg?v=20241220023033",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-pro-470",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF PRO 720",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF PRO 720 | Cámaras de clima constante con límites ampliados de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-PRO_720_T_GF_E7_Web_670x515.jpg?v=20241220023033",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-pro-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF PRO 1060",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF PRO 1060 | Cámaras de clima constante con límites ampliados de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-PRO_1060_T_GF_E7_Web_670x515.jpg?v=20241220023033",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-pro-1060",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF PRO 1600",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF PRO 1600 | Cámaras de clima constante con límites ampliados de temperatura y humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-PRO_1600_T_GF_E7_Web_670x515.jpg?v=20241220023033",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-pro-1600",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF-S ECO 240",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF-S ECO 240 | Cámaras de clima constante con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-S_ECO_240_GF_Web_670x515.jpg?v=20241220023037",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-s-eco-240",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF-S ECO 400",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF-S ECO 400 | Cámaras de clima constante con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-S_ECO_400_GF_Web_670x515.jpg?v=20241220023038",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-s-eco-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF-S ECO 720",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF-S ECO 720 | Cámaras de clima constante con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-S_ECO_720_GF_Web_670x515.jpg?v=20241220023038",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-s-eco-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "KBF-S ECO 1020",
+        "categoria": "camaras-clima-constante",
+        "nombre": "Modelo KBF-S ECO 1020 | Cámaras de clima constante con tecnología Peltier respetuosa con el medioambiente",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/KBF-S_ECO_1020_GF_Web_670x515.jpg?v=20241220023038",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/producto/kbf-s-eco-1020",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-constante/lista-productos-clima-constante"
+    },
+    {
+        "modelo": "MK 56",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MK 56 | Cámaras de clima variable para un cambio rápido de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_056_GF_Web_670x515.jpg?v=20241220023034",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mk-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MK 115",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MK 115 | Cámaras de clima variable para un cambio rápido de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_115_GF_Web_670x515.jpg?v=20241220023034",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mk-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MK 240",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MK 240 | Cámaras de clima variable para un cambio rápido de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_240_GF_Web_670x515.jpg?v=20241220023034",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mk-240",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MK 400",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MK 400 | Cámaras de clima variable para un cambio rápido de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_400_GF_Web_670x515.jpg?v=20241220023034",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mk-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MK 720",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MK 720 | Cámaras de clima variable para un cambio rápido de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_720_GF_Web_670x515.jpg?v=20241220023041",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mk-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MK 1020",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MK 1020 | Cámaras de clima variable para un cambio rápido de temperatura",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_1020_GF_Web_670x515.jpg?v=20241220023041",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mk-1020",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKF 56",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKF 56 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_056_GF_Web_670x515.jpg?v=20241220023041",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkf-56",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKF 115",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKF 115 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_115_GF_Web_670x515.jpg?v=20241220023042",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkf-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKF 240",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKF 240 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_240_GF_Web_670x515.jpg?v=20241220023042",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkf-240",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKF 400",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKF 400 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_400_GF_Web_670x515.jpg?v=20241220023042",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkf-400",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKF 720",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKF 720 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_720_GF_Web_670x515.jpg?v=20241220023043",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkf-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKF 1020",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKF 1020 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKF_1020_GF_Web_670x515.jpg?v=20241220023043",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkf-1020",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKT 115",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKT 115 | Cámaras de clima variable para un cambio rápido de temperatura con rango ampliado de temperatura criogénica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_115_GF_Web_670x515.jpg?v=20241220023043",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkt-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKT 240",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKT 240 | Cámaras de clima variable para un cambio rápido de temperatura con rango ampliado de temperatura criogénica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MKT-MKFT_240_GF_Web_670x515.jpg?v=20241220023044",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkt-240",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKT 720",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKT 720 | Cámaras de clima variable para un cambio rápido de temperatura con rango ampliado de temperatura criogénica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_720_GF_Web_670x515.jpg?v=20241220023044",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkt-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKFT 115",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKFT 115 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad y rango ampliado de temperatura criogénica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_115_GF_Web_670x515.jpg?v=20241220023044",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkft-115",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKFT 240",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKFT 240 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad y rango ampliado de temperatura criogénica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MKT-MKFT_240_GF_Web_670x515.jpg?v=20241220023044",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkft-240",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "MKFT 720",
+        "categoria": "camaras-clima-variable",
+        "nombre": "Modelo MKFT 720 | Cámaras de clima variable para un cambio rápido de temperatura con regulación de la humedad y rango ampliado de temperatura criogénica",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/MK-MKT-MKF-MKFT_720_GF_Web_670x515.jpg?v=20241220023045",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/producto/mkft-720",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-clima-variable/lista-productos-clima-variable"
+    },
+    {
+        "modelo": "WIC 1",
+        "categoria": "camaras-walk-in",
+        "nombre": "Model WIC 1 | Walk-in-chambers para ensayos de estabilidad según la directiva ICH (Q1A) ",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/WIC-1_GS_Web_670x515.jpg?v=20241220023045",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-walk-in/producto/wic-1",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-walk-in/lista-de-productos-de-camaras-walk-in"
+    },
+    {
+        "modelo": "WIC 2",
+        "categoria": "camaras-walk-in",
+        "nombre": "Model WIC 2 | Walk-in-chambers para ensayos de estabilidad según la directiva ICH (Q1A) ",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/WIC-2_GS_Web_670x515.jpg?v=20241220023045",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-walk-in/producto/wic-2",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-walk-in/lista-de-productos-de-camaras-walk-in"
+    },
+    {
+        "modelo": "WIC 3",
+        "categoria": "camaras-walk-in",
+        "nombre": "Model WIC 3 | Walk-in-chambers para ensayos de estabilidad según la directiva ICH (Q1A) ",
+        "image_url": "https://www.binder-world.com/contentserv/assets/es/1_main_image_GF/WIC-3_GS_Web_670x515.jpg?v=20241220023046",
+        "product_page_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-walk-in/producto/wic-3",
+        "source_url": "https://www.binder-world.com/int-es/productos/camaras-climaticas/camaras-walk-in/lista-de-productos-de-camaras-walk-in"
+    }
+]

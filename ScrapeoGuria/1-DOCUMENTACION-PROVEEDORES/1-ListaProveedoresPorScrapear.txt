@@ -1,0 +1,18 @@
+PROVEEDORES DE LOS QUE HAY QUE ESTRAER DATOS -->
+
+LabProccess 
+Alfa Aesar
+Daiham
+Binder GmbH
+Liebherr
+Fanoia
+Cellvis
+Chansow
+TH Geyer
+TPP Techno Plastic Products
+Hoopbio
+Hermes
+Ampligon
+
+
+

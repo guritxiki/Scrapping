@@ -1,0 +1,9 @@
+1- En esta url tienen todos los productos que venden:
+
+https://www.thgeyer.com/lab/shop/labware/ -->  Extraer desde aqui categorias
+
+
+Despues hay subcategorias, 
+
+
+

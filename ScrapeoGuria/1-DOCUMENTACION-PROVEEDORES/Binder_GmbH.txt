@@ -1,0 +1,26 @@
+1- En esta url tienen todos los productos que venden:
+
+https://www.binder-world.com/int-es --> Tienen un navbare en el cual aparece "Producto", 
+
+
+Despues estan las secciones y subsecciones, depsues de cada una de estas estan las listas.
+
+-Incubadoras: 
+    estandar
+    refrigeradas 
+    Incubadoras de CO2 
+    Camaras de crecimiento de plantas
+
+-Ultracongeladores: 
+
+-Camara de Secado:  
+    Camara de calor y de Secado
+    Camaras de secado seguridad
+    Camaras de secado al vacio
+
+-Camaras climaticas:
+    camaras clima constante
+    camaras de clima variable
+    camaras Walk-in
+
+-Camaras de pruebas de baterias:

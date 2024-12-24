@@ -1,0 +1,109 @@
+driver.get(url)
+Navega a la URL especificada.
+
+driver.close()
+Cierra la pestaña actual.
+
+driver.quit()
+Cierra todas las ventanas del navegador y finaliza la sesión.
+
+driver.back()
+Navega hacia atrás en el historial.
+
+driver.forward()
+Navega hacia adelante en el historial.
+
+driver.refresh()
+Recarga la página actual.
+
+driver.current_url
+Devuelve la URL actual.
+
+driver.title
+
+
+driver.find_element(By.ID, "id")
+Encuentra un elemento por su ID.
+
+driver.find_element(By.NAME, "name")
+Encuentra un elemento por su atributo name.
+
+driver.find_element(By.CLASS_NAME, "class")
+Encuentra un elemento por su clase CSS.
+
+driver.find_element(By.TAG_NAME, "tag")
+Encuentra un elemento por su etiqueta HTML.
+
+driver.find_element(By.XPATH, "xpath")
+Encuentra un elemento usando una expresión XPath.
+
+driver.find_element(By.CSS_SELECTOR, "css_selector")
+
+
+
+
+element.click()
+Realiza un clic sobre el elemento.
+
+element.send_keys("texto")
+Escribe texto en un campo de entrada.
+
+element.clear()
+Limpia el contenido de un campo de entrada.
+
+element.submit()
+Envía un formulario asociado al elemento.
+
+element.is_displayed()
+Devuelve True si el elemento es visible.
+
+element.is_enabled()
+Devuelve True si el elemento está habilitado.
+
+element.is_selected()
+
+
+
+
+driver.switch_to.alert
+Cambia el foco al cuadro de alerta.
+
+alert.accept()
+Acepta la alerta.
+
+alert.dismiss()
+Cancela la alerta.
+
+alert.text
+Obtiene el texto de la alerta.
+
+alert.send_keys("texto")
+
+
+
+driver.implicitly_wait(seconds)
+
+
+
+
+
+from selenium.webdriver.common.action_chains import ActionChains
+actions = ActionChains(driver)
+actions.move_to_element(element).click().perform()
+Métodos comunes:
+move_to_element(element)
+click()
+double_click()
+context_click() (clic derecho).
+drag_and_drop(source, target)
+
+
+
+
+
+
+
+
+
+
+
